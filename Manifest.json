@@ -1,4 +1,4 @@
-{
+{ 
     "manifest_version": 2,
     "name": "Speech to Text Extension",
     "description": "This extension discovers input boxes and enables speech accessibility.",
